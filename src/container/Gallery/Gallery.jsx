@@ -6,6 +6,8 @@ import {
   BsArrowRightShort,
 } from "react-icons/bs";
 
+import { FiFacebook, FiTwitter, FiInstagram } from "react-icons/fi";
+
 import { SubHeading } from "../../components";
 import { images } from "../../constants";
 import "./Gallery.css";
@@ -60,7 +62,8 @@ const Gallery = () => {
               key={`gallery_image-${index + 1}`}
             >
               <img src={image} alt="gallery_image" />
-              <BsInstagram className="gallery__image-icon" />
+              <FiFacebook className="gallery__image-icon" />
+              {/* <BsInstagram className="gallery__image-icon" /> */}
             </div>
           ))}
         </div>

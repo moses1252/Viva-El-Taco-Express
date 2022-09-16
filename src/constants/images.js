@@ -27,6 +27,10 @@ import facebook_4 from '../assets/facebook_4.jpg';
 import facebook_5 from '../assets/facebook_5.jpg';
 import facebook_6 from '../assets/facebook_6.jpg';
 import whitelogo from '../assets/whitelogofix.png';
+import thinpic from '../assets/thinpic.jpg';
+import todayspecial from '../assets/todayspecial.jpg';
+
+
 
 export default {
   bg,
@@ -57,5 +61,7 @@ export default {
   facebook_4,
   facebook_5,
   facebook_6,
-  whitelogo
+  whitelogo,
+  thinpic,
+  todayspecial
 };
