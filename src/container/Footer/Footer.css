@@ -8,7 +8,7 @@
     align-items: center;
     flex-direction: column;
 
-    background: var(--color-black);
+    background: url('/src/assets/bg.png');
     padding-top: 0;
 }
 
@@ -69,6 +69,15 @@
 .footer__copyright {
     margin-top: 3rem;
 }
+
+.title__headtext__cormorant {
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+  }
 
 @media screen and (min-width: 2000px) {
     .app__footer-headtext {

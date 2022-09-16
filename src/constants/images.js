@@ -20,6 +20,13 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+import facebook_1 from '../assets/facebook_1.jpg';
+import facebook_2 from '../assets/facebook_2.jpg';
+import facebook_3 from '../assets/facebook_3.jpg';
+import facebook_4 from '../assets/facebook_4.jpg';
+import facebook_5 from '../assets/facebook_5.jpg';
+import facebook_6 from '../assets/facebook_6.jpg';
+import whitelogo from '../assets/whitelogofix.png';
 
 export default {
   bg,
@@ -44,4 +51,11 @@ export default {
   sign,
   quote,
   gericht,
+  facebook_1,
+  facebook_2,
+  facebook_3,
+  facebook_4,
+  facebook_5,
+  facebook_6,
+  whitelogo
 };

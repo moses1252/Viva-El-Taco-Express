@@ -1,59 +1,44 @@
 import images from './images';
 
-const wines = [
+const Beverages = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Horchata',
+    price: '$3.5',
+    tags: 'Cup | small, medium, Large',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Pina',
+    price: '$3.5',
+    tags: 'Glass Bottle',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'limon',
+    price: '$3.5',
+    tags: 'Glass Bottle',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
-  },
-  {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
-  },
+    title: 'Jamaica',
+    price: '$3.5',
+    tags: 'Glass Bottle',
+  }
 ];
 
-const cocktails = [
+const Specials = [
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: '2 Sopes',
+    price: '$8.15',
+    tags: 'Shredded Beef or Chicken | Asada, All Pastor, or Carnitas',
   },
   {
-    title: "Dark 'N' Stormy",
-    price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    title: "Taco Salad",
+    price: '$7.95',
+    tags: 'Topped w/ beans lettuce, sour cream, guacamole, cheese & pico | Asada or Carnitas',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
-  },
-  {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
-  },
-  {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
-  },
+    title: 'Shrimp taco',
+    price: '$12.75',
+    tags: '',
+  }
 ];
 
 const awards = [
@@ -79,4 +64,4 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { Beverages, Specials, awards };
