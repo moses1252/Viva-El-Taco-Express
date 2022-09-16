@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Viva-El-Taco-Express/static/css/main.018a6043.css",
-    "main.js": "/Viva-El-Taco-Express/static/js/main.0902914b.js",
+    "main.css": "/Viva-El-Taco-Express/static/css/main.5f12453d.css",
+    "main.js": "/Viva-El-Taco-Express/static/js/main.56e403e3.js",
     "static/media/meal.mp4": "/Viva-El-Taco-Express/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/Viva-El-Taco-Express/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/Viva-El-Taco-Express/static/media/welcome.d724eb984456d9c97470.png",
@@ -23,8 +23,10 @@
     "static/media/facebook_2.jpg": "/Viva-El-Taco-Express/static/media/facebook_2.ad2d54a6b26da44a16eb.jpg",
     "static/media/facebook_5.jpg": "/Viva-El-Taco-Express/static/media/facebook_5.7544af140c396b7ba00b.jpg",
     "static/media/whitelogofix.png": "/Viva-El-Taco-Express/static/media/whitelogofix.de0e1b0cc40edecb9446.png",
+    "static/media/thinpic.jpg": "/Viva-El-Taco-Express/static/media/thinpic.5232c7c243188c61fa55.jpg",
     "static/media/yaya-logo.png": "/Viva-El-Taco-Express/static/media/yaya-logo.d55e6806f2b48f95b692.png",
     "static/media/yaya-welcome.jpg": "/Viva-El-Taco-Express/static/media/yaya-welcome.a39633942bbe81248f08.jpg",
+    "static/media/todayspecial.jpg": "/Viva-El-Taco-Express/static/media/todayspecial.7c1cb4733a1f7d58420b.jpg",
     "static/media/G.png": "/Viva-El-Taco-Express/static/media/G.b571eb82e589ec305ec9.png",
     "static/media/logo.png": "/Viva-El-Taco-Express/static/media/logo.0286194c03de0a90dac9.png",
     "static/media/award02.png": "/Viva-El-Taco-Express/static/media/award02.8bbdd51499739653b003.png",
@@ -34,11 +36,11 @@
     "static/media/sign.png": "/Viva-El-Taco-Express/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/Viva-El-Taco-Express/index.html",
     "static/media/spoon.svg": "/Viva-El-Taco-Express/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.018a6043.css.map": "/Viva-El-Taco-Express/static/css/main.018a6043.css.map",
-    "main.0902914b.js.map": "/Viva-El-Taco-Express/static/js/main.0902914b.js.map"
+    "main.5f12453d.css.map": "/Viva-El-Taco-Express/static/css/main.5f12453d.css.map",
+    "main.56e403e3.js.map": "/Viva-El-Taco-Express/static/js/main.56e403e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.018a6043.css",
-    "static/js/main.0902914b.js"
+    "static/css/main.5f12453d.css",
+    "static/js/main.56e403e3.js"
   ]
 }
